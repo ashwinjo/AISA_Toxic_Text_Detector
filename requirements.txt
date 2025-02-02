@@ -1,0 +1,13 @@
+pandas
+nest_asyncio
+fastapi
+uvicorn
+openai
+requests
+gradio
+pydantic
+transformers
+tensorflow
+torch
+tf-keras
+plotly
